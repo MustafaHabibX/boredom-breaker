@@ -3,7 +3,7 @@
 Interactive web app built with **Express.js**, **Axios**, and a **public API**, helping users find random activities to beat boredom instantly.
 
 <p align="center">
-  <img src="" alt="Boredom Breaker Banner" width="800"/>
+  <img src="./assets/banner.webp" alt="Boredom Breaker Banner" width="800"/>
 </p>
 
 <br>
