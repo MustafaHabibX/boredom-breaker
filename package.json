@@ -1,0 +1,27 @@
+{
+  "name": "boredom-breaker",
+  "version": "1.0.0",
+  "description": "Interactive web app built with **Express.js**, **Axios**, and a **public API**, helping users find random activities to beat boredom instantly.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustafaHabibX/boredom-breaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MustafaHabibX/boredom-breaker/issues"
+  },
+  "homepage": "https://github.com/MustafaHabibX/boredom-breaker#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
